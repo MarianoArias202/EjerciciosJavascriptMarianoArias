@@ -2,7 +2,7 @@
 Ejemplo: 
 input: 15 , 3, 9
 Output: El 15 es el número más grande */
-
+/*
 let numero1= parseInt(prompt("Ingrese un numero"));
 let numero2= parseInt(prompt("Ingrese un numero"));
 let numero3= parseInt(prompt("Ingrese un numero"));
@@ -32,3 +32,4 @@ document.write("<h1>el numero mayor entre: <br> " + numero1 +
                                            ",  y " + numero3 +
                                             "&nbsp; es: &nbsp;" + mayor +
                                             "</h1>" );
+*/
