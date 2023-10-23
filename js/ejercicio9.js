@@ -5,7 +5,7 @@ Ejemplo:
 
 input: Hola mundo  Output: oauo
  */
-let frase = prompt("Escribe una frase");
+/*let frase = prompt("Escribe una frase");
 let contadordecarcateres = frase.length;
 let vocalesextraidas;
 let i;
@@ -22,4 +22,4 @@ if (frase.substr(i,1) === "a" ||
     document.write( vocalesextraidas);
 }
 
-}
+}*/
