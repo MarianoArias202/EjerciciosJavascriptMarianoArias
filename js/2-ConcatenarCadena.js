@@ -6,10 +6,9 @@ Crea dos variables, nombre y apellido, y asígnales valores
  que contenga la concatenación de nombre y apellido. Muestra nombreCompleto en la consola.
 */
 
-/*
+
 let nombre = "Mariano";
 let apellido = "Arias";
 
 let nombreCompleto = nombre + " " + apellido;
 console.log("nombre completo: " + nombreCompleto);
-*/
