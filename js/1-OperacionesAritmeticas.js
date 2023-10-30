@@ -8,7 +8,7 @@ Resta de numero1 y numero2.
 Multiplicación de numero1 y numero2.
 División de numero1 entre numero2. */
 
-
+/*
 let numero1 = 8;
 let numero2 = 4;
 
@@ -20,4 +20,4 @@ let division = numero1 / numero2;
 console.log("Suma: " + suma);
 console.log("Resta: " + resta);
 console.log("Multiplicación: " + multi);
-console.log("División: " + division); 
+console.log("División: " + division); */
